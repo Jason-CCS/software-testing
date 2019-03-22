@@ -5,7 +5,9 @@
     * [SDLC](Software Basic/SDLC.md)
     * [Different Testing](Software Basic/Different Testing.md)
 * [Test Basic](Test Basic/README.md)
-    * [Requirement Document](About Test/Requirement Document.md)
-    * [Test Plan](About Test/Test Plan.md)
-    * [Test Case](About Test/Test Case.md)
+    * [Requirement Document](Test Basic/Requirement Document.md)
+    * [Test Plan](Test Basic/Test Plan.md)
+    * [Test Case](Test Basic/Test Case.md)
+    
+    
 

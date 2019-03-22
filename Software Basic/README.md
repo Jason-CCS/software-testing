@@ -1,3 +1,3 @@
 # Software Basic
 
-Shortly talk about the lifecycle of software developing and the goal of software test.
+Shortly talk about the lifecycle of software developing and what is software test.

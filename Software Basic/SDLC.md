@@ -1,14 +1,17 @@
 # SDLC
 
 SDLC is software development Life Cycle.
-There are several methodologies of software developing or creating.
-For example, Agile. It is the most prevalent currently.
+There are several methodologies to develop a software.
+For example, Agile. It is the most prevalent way currently.
 
 There are four phases which constitute SDLC:
-Requirement Analysis->Design Spec->Develop and Implement->Test
+* Planning
+* Analysis
+* Design
+* Implementation
+* Test
 
-Developing methodologies include waterfall, rapid application developing, extreme developing, and agile.
-
+Developing methodologies include waterfall, rapid application developing, extreme developing, and agile and so many on.
 In agile, software are analyzed and divided into several pieces to be separately developed it.
 
 Several agile terms shown below:
